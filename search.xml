@@ -21,9 +21,7 @@
   <entry>
     <title>test_my_site</title>
     <url>/2020/12/05/test-my-site/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>https://pan.kuku.me/kuku/</category>
-      </categories>
+    <content><![CDATA[<p><a href="https://pan.kuku.me/kuku/">https://pan.kuku.me/kuku/</a></p>
+]]></content>
   </entry>
 </search>
